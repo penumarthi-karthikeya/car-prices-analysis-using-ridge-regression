@@ -34,3 +34,5 @@ sklearn: Library for machine learning algorithms, used for implementing Ridge re
 matplotlib: Library for creating visualizations, used for plotting graphs. <br>
 seaborn: Library for statistical data visualization, used for creating distribution plots. <br>
 scipy: Library for scientific computing, used for statistical functions like Pearson correlation. <br>
+## demo video link
+https://youtu.be/zvMNyL63JVM
