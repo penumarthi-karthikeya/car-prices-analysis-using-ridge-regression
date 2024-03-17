@@ -5,7 +5,7 @@ Car Price Prediction using Ridge Regression
 This project implements Ridge regression, a variant of linear regression, to predict car prices based on various features such as wheel-base, length, width, and more. It involves preprocessing the dataset, training the model, and evaluating its performance.
 
 ## Team Members Details
-Penumarthi karthikeya 9921004557@klu.ac.in
+Penumarthi karthikeya 9921004557@klu.ac.in<br>
 Pisupati Sai Suhas 99210041102@klu.ac.in
 Ponna Jai Vardhan 99210041270@klu.ac.in
 Maddu Prem Teja 99210041222@klu.ac.in
